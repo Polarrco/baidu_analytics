@@ -1,0 +1,4 @@
+module BaiduMTJCore {
+    umbrella header "BaiduMobStat.h"
+    export *
+}
